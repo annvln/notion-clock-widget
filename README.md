@@ -1,4 +1,3 @@
-# notion-clock-widget
 <!DOCTYPE html>
 <html lang="ru">
 <head>
